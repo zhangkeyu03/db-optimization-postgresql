@@ -1,1 +1,0 @@
-# db-optimization-postgresql
