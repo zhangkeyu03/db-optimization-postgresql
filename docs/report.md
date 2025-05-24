@@ -10,6 +10,7 @@
 - `sql/4_function_or_view.sql`: определение представления списка заказов
 - `sql/5_queries.sql`: тестовые запросы и EXPLAIN
 - `docs/report.md`: Оптимизация отчета по анализу
+![image](https://github.com/user-attachments/assets/16bcff0f-65ab-419a-bc9f-5317f0edbc9e)
 
 ---
 
